@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1",
+        "imageSrc": "images/1.png",
+        "character": "你",
+        "meaning": "You",
+        "pinyin": "nǐ"
+    },
+    {
+        "id": "2",
+        "imageSrc": "images/2.png",
+        "character": "好",
+        "meaning": "Good",
+        "pinyin": "hǎo"
+    },
+    {
+        "id": "3",
+        "imageSrc": "images/3.png",
+        "character": "你好",
+        "meaning": "Hello",
+        "pinyin": "nǐ hǎo"
+    },
+    {
+        "id": "4",
+        "imageSrc": "images/4.png",
+        "character": "一",
+        "meaning": "One",
+        "pinyin": "yī"
+    },
+    {
+        "id": "5",
+        "imageSrc": "images/5.png",
+        "character": "五",
+        "meaning": "Five",
+        "pinyin": "wǔ"
+    },
+    {
+        "id": "6",
+        "imageSrc": "images/6.png",
+        "character": "八",
+        "meaning": "Eight",
+        "pinyin": "bā"
+    },
+    {
+        "id": "7",
+        "imageSrc": "images/7.png",
+        "character": "大",
+        "meaning": "Big",
+        "pinyin": "dà"
+    },
+    {
+        "id": "8",
+        "imageSrc": "images/8.png",
+        "character": "不",
+        "meaning": "No",
+        "pinyin": "bù"
+    },
+    {
+        "id": "9",
+        "imageSrc": "images/9.png",
+        "character": "口",
+        "meaning": "Mouth",
+        "pinyin": "kǒu"
+    },
+    {
+        "id": "10",
+        "imageSrc": "images/10.png",
+        "character": "白",
+        "meaning": "White",
+        "pinyin": "bái"
+    },
+    {
+        "id": "11",
+        "imageSrc": "images/11.png",
+        "character": "女",
+        "meaning": "Female",
+        "pinyin": "nǚ"
+    },
+    {
+        "id": "12",
+        "imageSrc": "images/12.png",
+        "character": "马",
+        "meaning": "Horse",
+        "pinyin": "mǎ"
+    }
+]
