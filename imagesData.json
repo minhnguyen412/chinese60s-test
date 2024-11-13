@@ -82,5 +82,96 @@
         "character": "马",
         "meaning": "Horse",
         "pinyin": "mǎ"
+    },
+    {
+        "id": "13",
+        "imageSrc": "images/13.png",
+        "character": "忙",
+        "meaning": "Busy",
+        "pinyin": "máng"
+    },
+    {
+        "id": "14",
+        "imageSrc": "images/14.png",
+        "character": "你忙吗?",
+        "meaning": "吗：a particle used at the end of a question",
+        "pinyin": "nǐ máng ma"
+    },
+    {
+        "id": "15",
+        "imageSrc": "images/15.png",
+        "character": "很忙",
+        "meaning": "很：Very",
+        "pinyin": "hěn máng"
+    },
+    {
+        "id": "16",
+        "imageSrc": "images/16.png",
+        "character": "汉语",
+        "meaning": "Chinese language",
+        "pinyin": "hànyǔ"
+    },
+    {
+        "id": "17",
+        "imageSrc": "images/17.png",
+        "character": "难",
+        "meaning": "Hard; difficult",
+        "pinyin": "nán"
+    },
+    {
+        "id": "18",
+        "imageSrc": "images/18.png",
+        "character": "不太难",
+        "meaning": "太：too; excessively; over",
+        "pinyin": "bú tài nán"
+    },
+    {
+        "id": "19",
+        "imageSrc": "images/19.png",
+        "character": "爸爸",
+        "meaning": "Dad",
+        "pinyin": "bàba"
+    },
+    {
+        "id": "20",
+        "imageSrc": "images/20.png",
+        "character": "妈妈",
+        "meaning": "Mom",
+        "pinyin": "māma"
+    },
+    {
+        "id": "21",
+        "imageSrc": "images/21.png",
+        "character": "哥哥",
+        "meaning": "Elder brother",
+        "pinyin": "gēge"
+    },
+    {
+        "id": "22",
+        "imageSrc": "images/22.png",
+        "character": "弟弟",
+        "meaning": "Younger brother",
+        "pinyin": "dìdi"
+    },
+    {
+        "id": "23",
+        "imageSrc": "images/23.png",
+        "character": "妹妹",
+        "meaning": "Younger sister",
+        "pinyin": "mèimei"
+    },
+    {
+        "id": "24",
+        "imageSrc": "images/24.png",
+        "character": "他/她",
+        "meaning": "He/She",
+        "pinyin": "tā/tā"
+    },
+    {
+        "id": "25",
+        "imageSrc": "images/25.png",
+        "character": "男",
+        "meaning": "Male",
+        "pinyin": "nán"
     }
 ]
