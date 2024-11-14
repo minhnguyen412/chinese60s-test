@@ -1,0 +1,112 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);  /* Hiển thị 4 hình mỗi hàng */
+    gap: 20px;  /* Khoảng cách giữa các hình */
+    padding: 20px;
+    max-width: 1200px;
+    width: 100%;
+    box-sizing: border-box;  /* Đảm bảo không bị tràn lề */
+    justify-items: center;
+}
+
+/* Điều chỉnh kích thước và khoảng cách của thẻ */
+.card {
+    width: 100%; /* Chiều rộng của thẻ sẽ chiếm toàn bộ không gian của cột */
+    max-width: 300px;  /* Giới hạn chiều rộng tối đa */
+    height: 300px;
+    perspective: 1000px;
+}
+
+/* Các thẻ khi hiển thị */
+.card-front, .card-back {
+    width: 100%;
+    height: 100%;
+    background: white;
+    position: absolute;
+    backface-visibility: hidden;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.6s;
+}
+
+.card-front {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.card-back {
+    transform: rotateY(180deg);
+    text-align: center;
+}
+
+.card.flipped .card-front {
+    transform: rotateY(180deg);
+}
+
+.card.flipped .card-back {
+    transform: rotateY(0deg);
+}
+
+/* Responsive: Khi thu nhỏ màn hình, mỗi hàng sẽ chỉ có 1 hoặc 2 hình */
+@media (max-width: 1024px) {
+    .grid-container {
+        grid-template-columns: repeat(2, 1fr);  /* 2 hình mỗi hàng khi màn hình vừa */
+    }
+}
+
+@media (max-width: 600px) {
+    .grid-container {
+        grid-template-columns: 1fr;  /* 1 hình mỗi hàng khi màn hình nhỏ */
+        justify-items: center;
+    }
+}
+.character {
+    transition: color 0.3s ease, font-size 0.3s ease;
+    cursor: pointer;  /* Đảm bảo con trỏ khi hover lên ký tự là mũi tên */
+}
+
+.character.clicked {
+    color: red;  /* Ví dụ: thay đổi màu khi click */
+    font-size: 1.2em;  /* Tăng kích thước khi click */
+}
+
+.card-back {
+    pointer-events: none;  /* Ngăn việc chọn văn bản trong vùng card */
+}
+
+.card-back .character {
+    pointer-events: auto;  /* Cho phép click vào từng ký tự */
+}
+
+/* Khi click vào ký tự, làm cho con trỏ trở lại là mũi tên */
+.character {
+    pointer-events: all;  /* Cho phép mọi tương tác với ký tự */
+}
+
+
+
+
+
+
+
+
