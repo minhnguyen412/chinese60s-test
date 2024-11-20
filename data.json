@@ -1,0 +1,8 @@
+{
+    "sentence": "The ___ fox jumps over the ___ dog.",
+    "blanks": [
+        { "answer": "quick" },
+        { "answer": "lazy" }
+    ],
+    "words": ["quick", "lazy", "brown", "fast"]
+}
