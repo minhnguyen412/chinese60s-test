@@ -1,8 +1,20 @@
 {
-    "sentence": "The ___ fox jumps over the ___ dog.",
-    "blanks": [
-        { "answer": "quick" },
-        { "answer": "lazy" }
-    ],
-    "words": ["quick", "lazy", "brown", "fast"]
+    "questions": [
+        {
+            "sentence": "The ___ fox jumps over the ___ dog.",
+            "blanks": [
+                { "answer": "quick" },
+                { "answer": "lazy" }
+            ],
+            "words": ["quick", "lazy", "brown", "fast"]
+        },
+        {
+            "sentence": "A ___ cat sleeps on the ___ chair.",
+            "blanks": [
+                { "answer": "black" },
+                { "answer": "old" }
+            ],
+            "words": ["black", "white", "lazy", "old"]
+        }
+    ]
 }
