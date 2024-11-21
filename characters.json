@@ -1,25 +1,20 @@
 {
     "characters": [
         {
-            "character": "你",
-            "pinyin": "nǐ",
+            "char": "你",
+            "pinyin": "Nǐ",
             "meaning": "You",
-            "audio": "audio/ni.mp3",
-            "image": "images/ni.png"
+            "image": "ni.png",
+            "audio": "ni.mp3",
+            "strokeOrder": "ni-stroke-order.json"
         },
         {
-            "character": "好",
-            "pinyin": "hǎo",
+            "char": "好",
+            "pinyin": "Hǎo",
             "meaning": "Good",
-            "audio": "audio/hao.mp3",
-            "image": "images/hao.png"
-        },
-        {
-            "character": "吗",
-            "pinyin": "ma",
-            "meaning": "Question particle",
-            "audio": "audio/ma.mp3",
-            "image": "images/ma.png"
+            "image": "hao.png",
+            "audio": "hao.mp3",
+            "strokeOrder": "hao-stroke-order.json"
         }
     ]
 }
