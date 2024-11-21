@@ -1,0 +1,8 @@
+{
+    "dialogue": [
+        { "speaker": "A", "text": "你好" },
+        { "speaker": "B", "text": "你好吗？" },
+        { "speaker": "A", "text": "我很好！你呢？" },
+        { "speaker": "B", "text": "我也很好！" }
+    ]
+}
