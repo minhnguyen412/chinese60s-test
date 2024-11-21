@@ -1,0 +1,46 @@
+{
+    "lessons": [
+        {
+            "id": "lesson1",
+            "title": "Greetings",
+            "dialogue": [
+                {
+                    "character": "你",
+                    "pinyin": "nǐ",
+                    "meaning": "You",
+                    "audio": "audio/ni.mp3"
+                },
+                {
+                    "character": "好",
+                    "pinyin": "hǎo",
+                    "meaning": "Good",
+                    "audio": "audio/hao.mp3"
+                }
+            ]
+        },
+        {
+            "id": "lesson2",
+            "title": "Introduction",
+            "dialogue": [
+                {
+                    "character": "我",
+                    "pinyin": "wǒ",
+                    "meaning": "I",
+                    "audio": "audio/wo.mp3"
+                },
+                {
+                    "character": "很",
+                    "pinyin": "hěn",
+                    "meaning": "Very",
+                    "audio": "audio/hen.mp3"
+                },
+                {
+                    "character": "好",
+                    "pinyin": "hǎo",
+                    "meaning": "Good",
+                    "audio": "audio/hao.mp3"
+                }
+            ]
+        }
+    ]
+}
