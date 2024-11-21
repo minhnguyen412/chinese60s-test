@@ -1,0 +1,25 @@
+{
+    "characters": [
+        {
+            "character": "你",
+            "pinyin": "nǐ",
+            "meaning": "You",
+            "audio": "audio/ni.mp3",
+            "image": "images/ni.png"
+        },
+        {
+            "character": "好",
+            "pinyin": "hǎo",
+            "meaning": "Good",
+            "audio": "audio/hao.mp3",
+            "image": "images/hao.png"
+        },
+        {
+            "character": "吗",
+            "pinyin": "ma",
+            "meaning": "Question particle",
+            "audio": "audio/ma.mp3",
+            "image": "images/ma.png"
+        }
+    ]
+}
