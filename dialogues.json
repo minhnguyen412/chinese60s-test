@@ -1,0 +1,14 @@
+{
+    "lessons": [
+        {
+            "id": "lesson1",
+            "title": "Greetings",
+            "dialogue": "你好！你好吗？我很好！你呢？我也很好！"
+        },
+        {
+            "id": "lesson2",
+            "title": "Introduction",
+            "dialogue": "我是学生。你是老师吗？"
+        }
+    ]
+}
