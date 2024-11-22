@@ -1,28 +1,24 @@
 {
-  "characters": [
-    {
-      "char": "你",
+  "characters": {
+    "你": {
       "meaning": "you",
       "pinyin": "nǐ",
-      "strokeOrder": "path/to/stroke-order-1.json"
+      "strokeOrder": "hanzi/ni.json"
     },
-    {
-      "char": "好",
+    "好": {
       "meaning": "good",
       "pinyin": "hǎo",
-      "strokeOrder": "path/to/stroke-order-2.json"
+      "strokeOrder": "hanzi/hao.json"
     },
-    {
-      "char": "世",
-      "meaning": "world",
-      "pinyin": "shì",
-      "strokeOrder": "path/to/stroke-order-3.json"
+    "早": {
+      "meaning": "morning",
+      "pinyin": "zǎo",
+      "strokeOrder": "hanzi/zao.json"
     },
-    {
-      "char": "界",
-      "meaning": "boundary",
-      "pinyin": "jiè",
-      "strokeOrder": "path/to/stroke-order-4.json"
+    "上": {
+      "meaning": "up",
+      "pinyin": "shàng",
+      "strokeOrder": "hanzi/shang.json"
     }
-  ]
+  }
 }
