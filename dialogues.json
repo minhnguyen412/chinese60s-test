@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "id": 1,
+      "background": "background1.jpg",
+      "text": "你好世界"
+    },
+    {
+      "id": 2,
+      "background": "background2.jpg",
+      "text": "世界你好"
+    }
+  ]
+}
