@@ -1,10 +1,11 @@
 [
     {
         "id": "1",
-        "imageSrc": "images/1.png",
-        "character": "你",
+        "imageSrc": "images/一.png",
+        "character": "一",
         "meaning": "You",
-        "pinyin": "nǐ"
+        "pinyin": "nǐ",
+        "audioSrc": "audio/一.mp3"
     },
     {
         "id": "2",
