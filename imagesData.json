@@ -12,7 +12,7 @@
         "imageSrc": "images/2.png",
         "character": "好",
         "meaning": "Good",
-        "pinyin": "hǎo"
+        "pinyin": "hǎo",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -20,7 +20,7 @@
         "imageSrc": "images/3.png",
         "character": "你好",
         "meaning": "Hello",
-        "pinyin": "nǐ hǎo"
+        "pinyin": "nǐ hǎo",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -28,7 +28,7 @@
         "imageSrc": "images/4.png",
         "character": "一",
         "meaning": "One",
-        "pinyin": "yī"
+        "pinyin": "yī",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -36,7 +36,7 @@
         "imageSrc": "images/5.png",
         "character": "五",
         "meaning": "Five",
-        "pinyin": "wǔ"
+        "pinyin": "wǔ",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -44,7 +44,7 @@
         "imageSrc": "images/6.png",
         "character": "八",
         "meaning": "Eight",
-        "pinyin": "bā"
+        "pinyin": "bā",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -52,7 +52,7 @@
         "imageSrc": "images/7.png",
         "character": "大",
         "meaning": "Big",
-        "pinyin": "dà"
+        "pinyin": "dà",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -60,7 +60,7 @@
         "imageSrc": "images/8.gif",
         "character": "不",
         "meaning": "No",
-        "pinyin": "bù"
+        "pinyin": "bù",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -68,7 +68,7 @@
         "imageSrc": "images/9.png",
         "character": "口",
         "meaning": "Mouth",
-        "pinyin": "kǒu"
+        "pinyin": "kǒu",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -76,7 +76,7 @@
         "imageSrc": "images/10.png",
         "character": "白",
         "meaning": "White",
-        "pinyin": "bái"
+        "pinyin": "bái",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -84,7 +84,7 @@
         "imageSrc": "images/11.png",
         "character": "女",
         "meaning": "Female",
-        "pinyin": "nǚ"
+        "pinyin": "nǚ",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -92,7 +92,7 @@
         "imageSrc": "images/12.png",
         "character": "马",
         "meaning": "Horse",
-        "pinyin": "mǎ"
+        "pinyin": "mǎ",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -100,7 +100,7 @@
         "imageSrc": "images/13.png",
         "character": "忙",
         "meaning": "Busy",
-        "pinyin": "máng"
+        "pinyin": "máng",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -108,7 +108,7 @@
         "imageSrc": "images/14.png",
         "character": "你忙吗?",
         "meaning": "吗：a particle used at the end of a question",
-        "pinyin": "nǐ máng ma"
+        "pinyin": "nǐ máng ma",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -116,7 +116,7 @@
         "imageSrc": "images/15.png",
         "character": "很忙",
         "meaning": "很：Very",
-        "pinyin": "hěn máng"
+        "pinyin": "hěn máng",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -124,7 +124,7 @@
         "imageSrc": "images/16.png",
         "character": "汉语",
         "meaning": "Chinese language",
-        "pinyin": "hànyǔ"
+        "pinyin": "hànyǔ",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -132,7 +132,7 @@
         "imageSrc": "images/17.png",
         "character": "难",
         "meaning": "Hard; difficult",
-        "pinyin": "nán"
+        "pinyin": "nán",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -140,7 +140,7 @@
         "imageSrc": "images/18.png",
         "character": "不太难",
         "meaning": "太：too; excessively; over",
-        "pinyin": "bú tài nán"
+        "pinyin": "bú tài nán",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -148,7 +148,7 @@
         "imageSrc": "images/19.png",
         "character": "爸爸",
         "meaning": "Dad",
-        "pinyin": "bàba"
+        "pinyin": "bàba",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -156,7 +156,7 @@
         "imageSrc": "images/20.png",
         "character": "妈妈",
         "meaning": "Mom",
-        "pinyin": "māma"
+        "pinyin": "māma",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -164,7 +164,7 @@
         "imageSrc": "images/21.png",
         "character": "哥哥",
         "meaning": "Elder brother",
-        "pinyin": "gēge"
+        "pinyin": "gēge",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -172,7 +172,7 @@
         "imageSrc": "images/22.png",
         "character": "弟弟",
         "meaning": "Younger brother",
-        "pinyin": "dìdi"
+        "pinyin": "dìdi",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -180,7 +180,7 @@
         "imageSrc": "images/23.png",
         "character": "妹妹",
         "meaning": "Younger sister",
-        "pinyin": "mèimei"
+        "pinyin": "mèimei",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -188,7 +188,7 @@
         "imageSrc": "images/24.png",
         "character": "他/她",
         "meaning": "He/She",
-        "pinyin": "tā/tā"
+        "pinyin": "tā/tā",
         "audioSrc": "audio/一.mp3"
     },
     {
@@ -196,7 +196,7 @@
         "imageSrc": "images/25.png",
         "character": "男",
         "meaning": "Male",
-        "pinyin": "nán"
+        "pinyin": "nán",
         "audioSrc": "audio/一.mp3"
     }
 ]
