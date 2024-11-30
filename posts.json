@@ -1,7 +1,7 @@
 [
     {"id": 1, "user": "A", "title": "这是王老师，这是我爸爸。", "description": "zhè shì wáng lǎoshī zhè shì wǒ bàba<br>This is teacher Wang, this is my father.", "avatar": "avatar/chamu-1.png"},
     {"id": 2, "user": "B", "title": "王老师，您好！", "description": "wáng lǎoshī nín hǎo<br>Teacher Wang, hello!", "avatar": "avatar/gdguan.png"},
-    {"id": 3, "user": "C", "title": "您好！请进！请坐！请喝茶！", "description": "nín hǎo qǐng jìn qǐng zuò qǐng hē chá<br>Hello!Please come in! Have a seat! Have some tea!", "avatar": "avatar/thaywang.png"},
+    {"id": 3, "user": "C", "title": "您好！请进！请坐！请喝茶！", "description": "nín hǎo qǐng jìn qǐng zuò qǐng hē chá<br>Hello! Please come in! Have a seat! Have some tea!", "avatar": "avatar/thaywang.png"},
     {"id": 4, "user": "B", "title": "谢谢！", "description": "xièxie<br>Thank you!", "avatar": "avatar/gdguan.png"},
     {"id": 5, "user": "C", "title": "不客气！", "description": "bú kèqi<br>You're welcome!", "avatar": "avatar/thaywang.png"},
     {"id": 6, "user": "C", "title": "工作忙吗？", "description": "gōngzuò máng ma<br>Is your work busy?", "avatar": "avatar/thaywang.png"},
