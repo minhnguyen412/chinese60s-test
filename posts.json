@@ -1,12 +1,12 @@
 [
-    {"id": 1, "user": "Kamala", "title": "ni hao ma", "description": "wo hen hao", "avatar": "images/avatar1.png"},
-    {"id": 2, "user": "mary", "title": "xie xie", "description": "thank you", "avatar": "images/avatar2.png"},
-    {"id": 3, "user": "Kamala", "title": "hao jiu", "description": "long time no see", "avatar": "images/avatar3.png"},
-    {"id": 4, "user": "mary", "title": "zai jian", "description": "goodbye", "avatar": "images/avatar4.png"},
-    {"id": 5, "user": "Kamala", "title": "qing wen", "description": "may I ask", "avatar": "images/avatar5.png"},
-    {"id": 6, "user": "mary", "title": "dui bu qi", "description": "sorry", "avatar": "images/avatar6.png"},
-    {"id": 7, "user": "Kamala", "title": "meiyou", "description": "not have", "avatar": "images/avatar7.png"},
-    {"id": 8, "user": "mary", "title": "hao de", "description": "okay", "avatar": "images/avatar8.png"},
-    {"id": 9, "user": "Kamala", "title": "zhen de ma", "description": "really?", "avatar": "images/avatar9.png"},
+    {"id": 1, "user": "A", "title": "这是王老师，这是我爸爸。", "description": "zhè shì wáng lǎoshī zhè shì wǒ bàba<br>This is teacher Wang, this is my father.", "avatar": "avatar/chamu-1.png"},
+    {"id": 2, "user": "B", "title": "王老师，您好！", "description": "wáng lǎoshī nín hǎo<br>Teacher Wang, hello!", "avatar": "avatar/gdguan.png"},
+    {"id": 3, "user": "C", "title": "您好！请进！请坐！请喝茶！", "description": "nín hǎo qǐng jìn qǐng zuò qǐng hē chá<br>Hello!Please come in! Have a seat! Have some tea!", "avatar": "avatar/thaywang.png"},
+    {"id": 4, "user": "B", "title": "谢谢！", "description": "xièxie<br>Thank you!", "avatar": "avatar/gdguan.png"},
+    {"id": 5, "user": "C", "title": "不客气！", "description": "bú kèqi<br>You're welcome!", "avatar": "avatar/thaywang.png"},
+    {"id": 6, "user": "C", "title": "工作忙吗？", "description": "gōngzuò máng ma<br>Is your work busy?", "avatar": "avatar/thaywang.png"},
+    {"id": 7, "user": "B", "title": "不太忙。", "description": "bú tài máng<br>Not too busy.", "avatar": "avatar/gdguan.png"},
+    {"id": 8, "user": "C", "title": "身体好吗？", "description": "shēntǐ hǎo ma<br>How is your health?", "avatar": "avatar/thaywang.png"},
+    {"id": 9, "user": "B", "title": "很好！", "description": "hěn hǎo<br>Very good!", "avatar": "avatar/gdguan.png"},
     {"id": 10, "user": "mary", "title": "yiding", "description": "certainly", "avatar": "images/avatar10.png"}
 ]
