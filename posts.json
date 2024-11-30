@@ -1,0 +1,12 @@
+[
+    {"id": 1, "title": "ni hao ma", "description": "wo hen hao", "avatar": "images/avatar1.png"},
+    {"id": 2, "title": "xie xie", "description": "thank you", "avatar": "images/avatar2.png"},
+    {"id": 3, "title": "hao jiu", "description": "long time no see", "avatar": "images/avatar3.png"},
+    {"id": 4, "title": "zai jian", "description": "goodbye", "avatar": "images/avatar4.png"},
+    {"id": 5, "title": "qing wen", "description": "may I ask", "avatar": "images/avatar5.png"},
+    {"id": 6, "title": "dui bu qi", "description": "sorry", "avatar": "images/avatar6.png"},
+    {"id": 7, "title": "meiyou", "description": "not have", "avatar": "images/avatar7.png"},
+    {"id": 8, "title": "hao de", "description": "okay", "avatar": "images/avatar8.png"},
+    {"id": 9, "title": "zhen de ma", "description": "really?", "avatar": "images/avatar9.png"},
+    {"id": 10, "title": "yiding", "description": "certainly", "avatar": "images/avatar10.png"}
+]
