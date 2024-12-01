@@ -49,7 +49,7 @@
             "words": ["bú", "máng", "tài"]
         },
         {
-            "sentence": "shēntǐ hǎo ma? hěn hǎo.",
+            "sentence": "___ ___ ___? hěn hǎo.",
             "blanks": [
                 { "answer": "shēntǐ" },
                 { "answer": "hǎo" },
