@@ -106,9 +106,9 @@
     {
         "id": "14",
         "imageSrc": "images/吗.png",
-        "character": "你忙吗?",
+        "character": "吗",
         "meaning": "吗：a particle used at the end of a question",
-        "pinyin": "nǐ máng ma",
+        "pinyin": "ma",
         "audioSrc": "audio/吗.mp3"
     },
     {
@@ -593,7 +593,7 @@
     },
     {
         "id": "75",
-        "imageSrc": "images/请.png",
+        "imageSrc": "images/请.gif",
         "character": "请",
         "meaning": "Please",
         "pinyin": "qǐng",
@@ -633,7 +633,7 @@
     },
     {
         "id": "80",
-        "imageSrc": "images/谢谢.png",
+        "imageSrc": "images/谢谢-不客气.png",
         "character": "谢谢",
         "meaning": "to thank",
         "pinyin": "xièxie",
