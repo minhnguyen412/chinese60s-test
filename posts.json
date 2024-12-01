@@ -3,7 +3,7 @@
         "id": 1, 
         "user": "A", 
         "title": "这是王老师，这是我爸爸。",
-        "segments": ["这", "是", "王", 老师", "，", "这", "是", "我", "爸爸", "。"],
+        "segments": ["这", "是", "王", "老师", "，", "这", "是", "我", "爸爸", "。"],
         "description": "zhè shì wáng lǎoshī zhè shì wǒ bàba<br>This is teacher Wang, this is my father.", 
         "avatar": "avatar/chamu-1.png", 
         "audioSrc": "audio/这是王老师这是我爸爸.mp3"
