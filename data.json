@@ -1,20 +1,61 @@
 {
     "questions": [
         {
-            "sentence": "The ___ fox jumps over the ___ dog.",
+            "sentence": "___ ___ ___, ___ ___ ___ ___.",
             "blanks": [
-                { "answer": "quick" },
-                { "answer": "lazy" }
+                { "answer": "zhè" },
+                { "answer": "shì" },
+                { "answer": "wáng lǎoshī" },
+                { "answer": "zhè" },
+                { "answer": "shì" },
+                { "answer": "wǒ" },
+                { "answer": "bàba" }
             ],
-            "words": ["quick", "lazy", "brown", "fast"]
+            "words": ["zhè", "wǒ", "shì", "zhè", "wáng lǎoshī", "shì", "bàba"]
         },
         {
-            "sentence": "A ___ cat sleeps on the ___ chair.",
+            "sentence": "___, ___ ___!",
             "blanks": [
-                { "answer": "black" },
-                { "answer": "old" }
+                { "answer": "wáng lǎoshī" },
+                { "answer": "nín" },
+                { "answer": "hǎo" }
             ],
-            "words": ["black", "white", "lazy", "old"]
+            "words": ["nín", "wáng lǎoshī", "hǎo"]
+        },
+        {
+            "sentence": "nín hǎo! qǐng ___! qǐng ___! qǐng ___ ___!",
+            "blanks": [
+                { "answer": "jìn" },
+                { "answer": "zuò" },
+                { "answer": "hē" },
+                { "answer": "chá" }
+            ],
+            "words": ["zuò", "hē", "jìn", "chá"]
+        },
+        {
+            "sentence": "xièxie! ___!",
+            "blanks": [
+                { "answer": "bú kèqi" }
+            ],
+            "words": ["bù zhīdào", "bú kèqi", "méi shénme", "duì bu qǐ"]
+        },
+        {
+            "sentence": "gōngzuò máng ma? ___ ___ ___.",
+            "blanks": [
+                { "answer": "bú" },
+                { "answer": "tài" },
+                { "answer": "máng" }
+            ],
+            "words": ["bú", "máng", "tài"]
+        },
+        {
+            "sentence": "shēntǐ hǎo ma? hěn hǎo.",
+            "blanks": [
+                { "answer": "shēntǐ" },
+                { "answer": "hǎo" },
+                { "answer": "ma?" }
+            ],
+            "words": ["ma?", "hǎo", "shēntǐ"]
         }
     ]
 }
