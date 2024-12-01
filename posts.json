@@ -6,7 +6,7 @@
         "segments": ["这", "是", "王", "老师", "，", "这", "是", "我", "爸爸", "。"],
         "description": "zhè shì wáng lǎoshī zhè shì wǒ bàba<br>This is teacher Wang, this is my father.", 
         "avatar": "avatar/chamu-1.png", 
-        "audioSrc": "audio/这是王老师这是我爸爸.mp3"
+        "audioSrc": "sentences/这是王老师这是我爸爸.mp3"
     },
     {
         "id": 2, 
@@ -15,7 +15,7 @@
         "segments": ["王", "老师", "，", "您", "好", "！"],
         "description": "wáng lǎoshī nín hǎo<br>Teacher Wang, hello!", 
         "avatar": "avatar/gdguan.png", 
-        "audioSrc": "audio/王老师您好.mp3"
+        "audioSrc": "sentences/王老师您好.mp3"
     },
     {
         "id": 3, 
@@ -24,7 +24,7 @@
         "segments": ["您", "好", "！", "请", "进", "！", "请", "坐", "！", "请", "喝", "茶", "！"],
         "description": "nín hǎo qǐng jìn qǐng zuò qǐng hē chá<br>Hello! Please come in! Have a seat! Have some tea!", 
         "avatar": "avatar/thaywang.png", 
-        "audioSrc": "audio/您好请进请坐请喝茶.mp3"
+        "audioSrc": "sentences/您好请进请坐请喝茶.mp3"
     },
     {
         "id": 4, 
@@ -33,7 +33,7 @@
         "segments": ["谢谢", "！"],
         "description": "xièxie<br>Thank you!", 
         "avatar": "avatar/gdguan.png", 
-        "audioSrc": "audio/谢谢.mp3"
+        "audioSrc": "sentences/谢谢.mp3"
     },
     {
         "id": 5, 
@@ -42,7 +42,7 @@
         "segments": ["不", "客气", "！"],
         "description": "bú kèqi<br>You're welcome!", 
         "avatar": "avatar/thaywang.png", 
-        "audioSrc": "audio/不客气.mp3"
+        "audioSrc": "sentences/不客气.mp3"
     },
     {
         "id": 6, 
@@ -51,7 +51,7 @@
         "segments": ["工作", "忙", "吗", "？"],
         "description": "gōngzuò máng ma<br>Is your work busy?", 
         "avatar": "avatar/thaywang.png", 
-        "audioSrc": "audio/工作忙吗.mp3"
+        "audioSrc": "sentences/工作忙吗.mp3"
     },
     {
         "id": 7, 
@@ -60,7 +60,7 @@
         "segments": ["不", "太", "忙", "。"],
         "description": "bú tài máng<br>Not too busy.", 
         "avatar": "avatar/gdguan.png", 
-        "audioSrc": "audio/不太忙.mp3"
+        "audioSrc": "sentences/不太忙.mp3"
     },
     {
         "id": 8, 
@@ -69,7 +69,7 @@
         "segments": ["身体", "好", "吗", "？"],
         "description": "shēntǐ hǎo ma<br>How is your health?", 
         "avatar": "avatar/thaywang.png", 
-        "audioSrc": "audio/身体好吗.mp3"
+        "audioSrc": "sentences/身体好吗.mp3"
     },
     {
         "id": 9, 
@@ -78,7 +78,7 @@
         "segments": ["很", "好", "！"],
         "description": "hěn hǎo<br>Very good!", 
         "avatar": "avatar/gdguan.png", 
-        "audioSrc": "audio/很好.mp3"
+        "audioSrc": "sentences/很好.mp3"
     },
     {
         "id": 10, 
