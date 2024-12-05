@@ -689,7 +689,7 @@
     },
     {
         "id": "87",
-        "imageSrc": "images/请问.png",
+        "imageSrc": "images/请问.gif",
         "character": "请问",
         "meaning": "Excuse me",
         "pinyin": "qǐngwèn",
@@ -729,7 +729,7 @@
     },
     {
         "id": "92",
-        "imageSrc": "images/名字.png",
+        "imageSrc": "images/名字.gif",
         "character": "名字",
         "meaning": "Name",
         "pinyin": "míngzi",
@@ -865,7 +865,7 @@
     },
     {
         "id": "109",
-        "imageSrc": "images/谁.png",
+        "imageSrc": "images/谁.gif",
         "character": "谁",
         "meaning": "Who",
         "pinyin": "shéi/shuí",
