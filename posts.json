@@ -82,9 +82,101 @@
     },
     {
         "id": 10, 
-        "user": "mary", 
-        "title": "yiding", 
-        "description": "certainly", 
-        "avatar": "images/avatar10.png"
+        "user": "麦克", 
+        "title": "请问，你贵姓？", 
+        "segments": ["请问", "，", "你", "贵姓", "？"],
+        "description": "qǐngwèn nǐ guìxìng<br>Very good!", 
+        "avatar": "avatar/maike.png", 
+        "audioSrc": "sentences/请问你贵姓.mp3"
+    },
+    {
+        "id": 11, 
+        "user": "张东", 
+        "title": "我姓张。", 
+        "segments": ["我", "姓", "张", "。"],
+        "description": "wǒ xìng zhāng<br>Very good!", 
+        "avatar": "avatar/zhangdong.png", 
+        "audioSrc": "sentences/我姓张.mp3"
+    },
+    {
+        "id": 12, 
+        "user": "麦克", 
+        "title": "你叫什么名字？", 
+        "segments": ["你", "叫", "什么", "名字", "？"],
+        "description": "nǐ jiào shénme míngzi<br>Very good!", 
+        "avatar": "avatar/maike.png", 
+        "audioSrc": "sentences/你叫什么名字.mp3"
+    },
+    {
+        "id": 13, 
+        "user": "张东", 
+        "title": "我叫张东。", 
+        "segments": ["我", "叫", "张东", "。"],
+        "description": "wǒ jiào zhāng dōng<br>Very good!", 
+        "avatar": "avatar/zhangdong.png", 
+        "audioSrc": "sentences/我叫张东.mp3"
+    },
+    {
+        "id": 14, 
+        "user": "麦克", 
+        "title": "你是哪国人？", 
+        "segments": ["你", "是", "哪", "国", "人", "？"],
+        "description": "nǐ shì nǎ guó rén<br>Very good!", 
+        "avatar": "avatar/maike.png", 
+        "audioSrc": "sentences/你是哪国人.mp3"
+    },
+    {
+        "id": 15, 
+        "user": "张东", 
+        "title": "我是中国人，你是哪国人？", 
+        "segments": ["我", "是", "中国", "人", "，", "你", "是", "哪", "国", "人", "？"],
+        "description": "wǒ shì zhōngguó rén nǐ shì nǎ guó rén<br>Very good!", 
+        "avatar": "avatar/zhangdong.png", 
+        "audioSrc": "sentences/我是中国人你是哪个国人.mp3"
+    },
+    {
+        "id": 16, 
+        "user": "麦克", 
+        "title": "我是美国人。", 
+        "segments": ["我", "是", "美国", "人", "。"],
+        "description": "wǒ shì měiguó rén<br>Very good!", 
+        "avatar": "avatar/maike.png", 
+        "audioSrc": "sentences/我是美国人.mp3"
+    },
+    {
+        "id": 17, 
+        "user": "张东", 
+        "title": "你学习什么？", 
+        "segments": ["你", "学习", "什么", "？"],
+        "description": "nǐ xuéxí shénme<br>Very good!", 
+        "avatar": "avatar/zhangdong.png", 
+        "audioSrc": "sentences/你学习什么.mp3"
+    },
+    {
+        "id": 18, 
+        "user": "麦克", 
+        "title": "我学习汉语。", 
+        "segments": ["我", "学习", "汉语", "。"],
+        "description": "wǒ xuěxí hànyǔ<br>Very good!", 
+        "avatar": "avatar/maike.png", 
+        "audioSrc": "sentences/我学习汉语.mp3"
+    },
+    {
+        "id": 19, 
+        "user": "张东", 
+        "title": "汉语难吗？", 
+        "segments": ["汉语", "难", "吗", "？"],
+        "description": "hànyǔ nán ma<br>Very good!", 
+        "avatar": "avatar/zhangdong.png", 
+        "audioSrc": "sentences/汉语难吗.mp3"
+    },
+    {
+        "id": 20, 
+        "user": "麦克", 
+        "title": "汉字很难，发音不太难。", 
+        "segments": ["汉字", "很", "难", "，", "发音", "不", "太", "难", "。"],
+        "description": "hànzi hěn nán fāyīn bú tài nán<br>Very good!", 
+        "avatar": "avatar/maike.png", 
+        "audioSrc": "sentences/汉字很难发音不太难.mp3"
     }
 ]
