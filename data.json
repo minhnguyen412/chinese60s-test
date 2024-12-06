@@ -1,6 +1,7 @@
 {
     "questions": [
         {
+            "id": 1,
             "sentence": "___ ___ ___, ___ ___ ___ ___.",
             "blanks": [
                 { "answer": "zhè" },
@@ -14,6 +15,7 @@
             "words": ["zhè", "wǒ", "shì", "zhè", "wáng lǎoshī", "shì", "bàba"]
         },
         {
+            "id": 2,
             "sentence": "___, ___ ___!",
             "blanks": [
                 { "answer": "wáng lǎoshī" },
@@ -23,6 +25,7 @@
             "words": ["nín", "wáng lǎoshī", "hǎo"]
         },
         {
+            "id": 3,
             "sentence": "nín hǎo! qǐng ___! qǐng ___! qǐng ___ ___!",
             "blanks": [
                 { "answer": "jìn" },
@@ -33,6 +36,7 @@
             "words": ["zuò", "hē", "jìn", "chá"]
         },
         {
+            "id": 4,
             "sentence": "xièxie! ___!",
             "blanks": [
                 { "answer": "bú kèqi" }
@@ -40,6 +44,7 @@
             "words": ["bù zhīdào", "bú kèqi", "méi shénme", "duì bu qǐ"]
         },
         {
+            "id": 5,
             "sentence": "gōngzuò máng ma? ___ ___ ___.",
             "blanks": [
                 { "answer": "bú" },
@@ -49,6 +54,7 @@
             "words": ["bú", "máng", "tài"]
         },
         {
+            "id": 6,
             "sentence": "___ ___ ___? hěn hǎo.",
             "blanks": [
                 { "answer": "shēntǐ" },
