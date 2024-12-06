@@ -132,7 +132,7 @@
         "segments": ["我", "是", "中国", "人", "，", "你", "是", "哪", "国", "人", "？"],
         "description": "wǒ shì zhōngguó rén nǐ shì nǎ guó rén<br>I’m Chinese, what nationality are you?", 
         "avatar": "avatar/zhangdong.png", 
-        "audioSrc": "sentences/我是中国人你是哪个国人.mp3"
+        "audioSrc": "sentences/我是中国人你是哪国人.mp3"
     },
     {
         "id": 16, 
