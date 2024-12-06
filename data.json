@@ -2,6 +2,7 @@
     "questions": [
         {
             "id": 1,
+            "audio": "sentences/这是王老师这是我爸爸.mp3"
             "sentence": "___ ___ ___, ___ ___ ___ ___.",
             "blanks": [
                 { "answer": "zhè" },
@@ -16,6 +17,7 @@
         },
         {
             "id": 2,
+            "audio": "sentences/王老师您好.mp3"
             "sentence": "___, ___ ___!",
             "blanks": [
                 { "answer": "wáng lǎoshī" },
@@ -26,6 +28,7 @@
         },
         {
             "id": 3,
+            "audio": "sentences/您好请进请坐请喝茶.mp3"
             "sentence": "nín hǎo! qǐng ___! qǐng ___! qǐng ___ ___!",
             "blanks": [
                 { "answer": "jìn" },
@@ -37,6 +40,7 @@
         },
         {
             "id": 4,
+            "audio": "sentences/不客气.mp3"
             "sentence": "xièxie! ___!",
             "blanks": [
                 { "answer": "bú kèqi" }
@@ -45,6 +49,7 @@
         },
         {
             "id": 5,
+            "audio": "sentences/不太忙.mp3"
             "sentence": "gōngzuò máng ma? ___ ___ ___.",
             "blanks": [
                 { "answer": "bú" },
@@ -55,6 +60,7 @@
         },
         {
             "id": 6,
+            "audio": "sentences/身体好吗.mp3"
             "sentence": "___ ___ ___? hěn hǎo.",
             "blanks": [
                 { "answer": "shēntǐ" },
