@@ -189,9 +189,9 @@
                 { "answer": "What" },
                 { "answer": "is" },
                 { "answer": "your" },
-                { "answer": "name?" }
+                { "answer": "name" }
             ],
-            "words": ["is", "name?", "what", "your"]
+            "words": ["is", "name", "What", "your"]
         },
         {
             "id": 20,
