@@ -2,30 +2,35 @@
   "questions": [
     {
       "id": 1,
+      "type": "imagetoquestion",
       "image": "images/老师.png",
       "options": ["Teacher", "Lawyer", "Doctor"],
       "answer": "Teacher"
     },
     {
       "id": 2,
+      "type": "imagetoquestion",
       "image": "images/您.png",
       "options": ["I", "She", "You - honorific"],
       "answer": "You - honorific"
     },
     {
       "id": 3,
+      "type": "imagetoquestion",
       "image": "images/请.gif",
       "options": ["Excuse me", "Please", "Invite"],
       "answer": "Please"
     },
     {
       "id": 4,
+      "type": "imagetoquestion",
       "image": "images/进.png",
       "options": ["to enter; to come in", "to go out", "to eat"],
       "answer": "to enter; to come in"
     },
     {
       "id": 5,
+      "type": "imagetoquestion",
       "image": "images/坐.png",
       "options": ["to talk", "to walk", "to sit"],
       "answer": "to sit"
