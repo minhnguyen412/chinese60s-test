@@ -2,33 +2,38 @@
   "questions": [
     {
       "id": 1,
+      "type": "questiontoimage",
       "question": "喝",
-      "options": ["images\坐.png", "images\请.gif", "images\喝.png"],
-      "answer": "images\喝.png"
+      "options": ["images/坐.png", "images/请.gif", "images/喝.png"],
+      "answer": "images/喝.png"
     },
     {
       "id": 2,
+      "type": "questiontoimage",
       "question": "茶",
-      "options": ["images\天.png", "images\茶.png", "images\取.png"],
-      "answer": "images\喝.png"
+      "options": ["images/天.png", "images/茶.png", "images/取.png"],
+      "answer": "images/喝.png"
     },
     {
       "id": 3,
+      "type": "questiontoimage",
       "question": "客气",
-      "options": ["images\客气.png", "images\回.png", "images\学.png"],
-      "answer": "images\喝.png"
+      "options": ["images/客气.png", "images/回.png", "images/学.png"],
+      "answer": "images/喝.png"
     },
     {
       "id": 4,
+      "type": "questiontoimage",
       "question": "工作",
-      "options": ["images\好.png", "images\工作.png", "images\您.png"],
-      "answer": "images\喝.png"
+      "options": ["images/好.png", "images/工作.png", "images/您.png"],
+      "answer": "images/喝.png"
     },
     {
       "id": 5,
+      "type": "questiontoimage",
       "question": "身体",
-      "options": ["images\朋友.png", "images\书.png", "images\身体.png"],
-      "answer": "images\喝.png"
+      "options": ["images/朋友.png", "images/书.png", "images/身体.png"],
+      "answer": "images/喝.png"
     }
   ]
 }
