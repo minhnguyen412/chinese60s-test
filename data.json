@@ -159,5 +159,79 @@
             ],
             "words": ["images/朋友.png", "images/书.png", "images/身体.png"]
         }
+        {
+            "id": 17,
+            "audio": "sentences/请问你贵姓.mp3",
+            "sentence": "___ ___ ___?",
+            "blanks": [
+                { "answer": "请问" },
+                { "answer": "你" },
+                { "answer": "贵姓" }
+            ],
+            "words": ["贵姓", "请问", "你"]
+        },
+        {
+            "id": 18,
+            "audio": "sentences/我姓张.mp3",
+            "sentence": "My sure name is Zhang. ___ ___ ___.",
+            "blanks": [
+                { "answer": "我" },
+                { "answer": "姓" },
+                { "answer": "张" }
+            ],
+            "words": ["张", "我", "姓"]
+        },
+        {
+            "id": 19,
+            "audio": "sentences/你叫什么名字.mp3",
+            "sentence": "你叫什么名字？___ ___ ___ ___?",
+            "blanks": [
+                { "answer": "What" },
+                { "answer": "is" },
+                { "answer": "your" },
+                { "answer": "name?" }
+            ],
+            "words": ["is", "name?", "what", "your"]
+        },
+        {
+            "id": 20,
+            "audio": "sentences/你是哪国人.mp3",
+            "sentence": "___ ___ ___ ___ ___?",
+            "blanks": [
+                { "answer": "你" },
+                { "answer": "是" },
+                { "answer": "哪" },
+                { "answer": "国" },
+                { "answer": "人" }
+            ],
+            "words": ["人", "哪", "是", "你", "国"]
+        },
+        {
+            "id": 21,
+            "audio": "audio/学习.mp3",
+            "sentence": ["images/学习.png", ": ___"],
+            "blanks": [
+                { "answer": "学习" }
+            ],
+            "words": ["工作", "学习", "睡觉"]
+        },
+        {
+            "id": 22,
+            "audio": "audio/发音.mp3",
+            "sentence": ["images/发音.png", ": ___"],
+            "blanks": [
+                { "answer": "发音" }
+            ],
+            "words": ["汉字", "课文", "发音"]
+        },
+        {
+            "id": 23,
+            "audio": "audio/汉字.mp3",
+            "sentence": "汉字 : ___",
+            "blanks": [
+                { "answer": "images/汉字.png" }
+            ],
+            "words": ["images/汉字.png", "images/杂志.png", "images/国.png"]
+        }
     ]
 }
