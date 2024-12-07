@@ -173,7 +173,7 @@
         {
             "id": 18,
             "audio": "sentences/我姓张.mp3",
-            "sentence": "My sure name is Zhang. ___ ___ ___.",
+            "sentence": "My surname is Zhang. ___ ___ ___.",
             "blanks": [
                 { "answer": "我" },
                 { "answer": "姓" },
