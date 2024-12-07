@@ -68,6 +68,96 @@
                 { "answer": "ma?" }
             ],
             "words": ["ma?", "hǎo", "shēntǐ"]
+        },
+        {
+            "id": 7,
+            "audio": "audio/老师.mp3",
+            "sentence": "images/老师.png : ___",
+            "blanks": [
+                { "answer": "老师" }
+            ],
+            "words": ["律师", "老师", "医生"]
+        },
+        {
+            "id": 8,
+            "audio": "audio/您.mp3",
+            "sentence": "images/您.png : ___",
+            "blanks": [
+                { "answer": "您" }
+            ],
+            "words": ["您", "我", "你"]
+        },
+        {
+            "id": 9,
+            "audio": "audio/请.mp3",
+            "sentence": "images/请.gif : ___",
+            "blanks": [
+                { "answer": "请" }
+            ],
+            "words": ["好", "对", "请"]
+        },
+        {
+            "id": 10,
+            "audio": "audio/进.mp3",
+            "sentence": "images/进.png : ___",
+            "blanks": [
+                { "answer": "进" }
+            ],
+            "words": ["喝", "去", "进"]
+        },
+        {
+            "id": 11,
+            "audio": "audio/坐.mp3",
+            "sentence": "images/坐.png : ___",
+            "blanks": [
+                { "answer": "坐" }
+            ],
+            "words": ["坐", "吃", "站"]
+        },
+        {
+            "id": 12,
+            "audio": "audio/喝.mp3",
+            "sentence": "喝 : ___",
+            "blanks": [
+                { "answer": "images/喝.png" }
+            ],
+            "words": ["images/坐.png", "images/喝.png", "images/请.gif"]
+        },
+        {
+            "id": 13,
+            "audio": "audio/茶.mp3",
+            "sentence": "茶 : ___",
+            "blanks": [
+                { "answer": "images/茶.png" }
+            ],
+            "words": ["images/天.png", "images/茶.png", "images/取.png"]
+        },
+        {
+            "id": 14,
+            "audio": "audio/客气.mp3",
+            "sentence": "客气 : ___",
+            "blanks": [
+                { "answer": "images/客气.png" }
+            ],
+            "words": ["images/客气.png", "images/回.png", "images/学.png"]
+        },
+        {
+            "id": 15,
+            "audio": "audio/工作.mp3",
+            "sentence": "工作 : ___",
+            "blanks": [
+                { "answer": "images/工作.png" }
+            ],
+            "words": ["images/好.png", "images/工作.png", "images/您.png"]
+        },
+        {
+            "id": 16,
+            "audio": "audio/身体.mp3",
+            "sentence": "身体 : ___",
+            "blanks": [
+                { "answer": "images/身体.png" }
+            ],
+            "words": ["images/朋友.png", "images/书.png", "images/身体.png"]
         }
     ]
 }
