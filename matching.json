@@ -1,0 +1,42 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "type": "matching",
+            "pairs": [
+                {
+                    "option": "进",
+                    "match": "images/进.png"
+                },
+                {
+                    "option": "坐",
+                    "match": "images/坐.png"
+                },
+                {
+                    "option": "喝",
+                    "match": "images/喝.png"
+                }
+            ],
+            "instructions": "Match the word with the corresponding image."
+        },
+        {
+            "id": 2,
+            "type": "matching",
+            "pairs": [
+                {
+                    "option": "茶",
+                    "match": "images/茶.png"
+                },
+                {
+                    "option": "身体",
+                    "match": "images/身体.png"
+                },
+                {
+                    "option": "工作",
+                    "match": "images/工作.png"
+                }
+            ],
+            "instructions": "Match the word with the corresponding image."
+        }
+    ]
+}
