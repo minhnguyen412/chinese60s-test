@@ -982,5 +982,189 @@
         "meaning": "Friend",
         "pinyin": "péngyou",
         "audioSrc": "audio/朋友.mp3"
+    },
+    {
+        "id": "124",
+        "imageSrc": "images/中午.png",
+        "character": "中午",
+        "meaning": "Noon",
+        "pinyin": "zhōngwǔ",
+        "audioSrc": "audio/中午.mp3"
+    },
+    {
+        "id": "125",
+        "imageSrc": "images/吃.gif",
+        "character": "吃",
+        "meaning": "to eat",
+        "pinyin": "chī",
+        "audioSrc": "audio/吃.mp3"
+    },
+    {
+        "id": "126",
+        "imageSrc": "images/饭.png",
+        "character": "饭",
+        "meaning": "Meal",
+        "pinyin": "fàn",
+        "audioSrc": "audio/饭.mp3"
+    },
+    {
+        "id": "127",
+        "imageSrc": "images/食堂.png",
+        "character": "食堂",
+        "meaning": "Dining hall",
+        "pinyin": "shítáng",
+        "audioSrc": "audio/食堂mp3"
+    },
+    {
+        "id": "128",
+        "imageSrc": "images/馒头.png",
+        "character": "馒头",
+        "meaning": "Sweet steamed bun",
+        "pinyin": "mántou",
+        "audioSrc": "audio/馒头.mp3"
+    },
+    {
+        "id": "129",
+        "imageSrc": "images/米饭.png",
+        "character": "米饭",
+        "meaning": "Steamed rice",
+        "pinyin": "mǐfàn",
+        "audioSrc": "audio/米饭.mp3"
+    },
+    {
+        "id": "130",
+        "imageSrc": "images/米.png",
+        "character": "米",
+        "meaning": "Rice",
+        "pinyin": "mǐ",
+        "audioSrc": "audio/米.mp3"
+    },
+    {
+        "id": "131",
+        "imageSrc": "images/要.png",
+        "character": "要",
+        "meaning": "to want; to desire",
+        "pinyin": "yào",
+        "audioSrc": "audio/要.mp3"
+    },
+    {
+        "id": "132",
+        "imageSrc": "images/个.png",
+        "character": "个",
+        "meaning": "a classifier basically used before nouns without a special classifier of their own",
+        "pinyin": "gè",
+        "audioSrc": "audio/个.mp3"
+    },
+    {
+        "id": "133",
+        "imageSrc": "images/碗.png",
+        "character": "碗",
+        "meaning": "Bowl",
+        "pinyin": "wǎn",
+        "audioSrc": "audio/碗.mp3"
+    },
+    {
+        "id": "134",
+        "imageSrc": "images/鸡蛋.png",
+        "character": "鸡蛋",
+        "meaning": "Egg",
+        "pinyin": "jīdàn",
+        "audioSrc": "audio/鸡蛋.mp3"
+    },
+    {
+        "id": "135",
+        "imageSrc": "images/鸡.png",
+        "character": "鸡",
+        "meaning": "Chicken",
+        "pinyin": "jī",
+        "audioSrc": "audio/鸡.mp3"
+    },
+    {
+        "id": "136",
+        "imageSrc": "images/蛋.png",
+        "character": "蛋",
+        "meaning": "Egg",
+        "pinyin": "dàn",
+        "audioSrc": "audio/蛋.mp3"
+    },
+    {
+        "id": "137",
+        "imageSrc": "images/汤.png",
+        "character": "汤",
+        "meaning": "Soup",
+        "pinyin": "tāng",
+        "audioSrc": "audio/汤.mp3"
+    },
+    {
+        "id": "138",
+        "imageSrc": "images/啤酒.png",
+        "character": "啤酒",
+        "meaning": "Beer",
+        "pinyin": "píjiǔ",
+        "audioSrc": "audio/啤酒.mp3"
+    },
+    {
+        "id": "139",
+        "imageSrc": "images/酒.png",
+        "character": "酒",
+        "meaning": "Alcoholic drink",
+        "pinyin": "jiǔ",
+        "audioSrc": "audio/酒.mp3"
+    },
+    {
+        "id": "140",
+        "imageSrc": "images/这些.png",
+        "character": "这些",
+        "meaning": "These",
+        "pinyin": "zhèxiē",
+        "audioSrc": "audio/这些.mp3"
+    },
+    {
+        "id": "141",
+        "imageSrc": "images/些.png",
+        "character": "些",
+        "meaning": "classifier - some",
+        "pinyin": "xiē",
+        "audioSrc": "audio/些.mp3"
+    },
+    {
+        "id": "142",
+        "imageSrc": "images/一些.png",
+        "character": "一些",
+        "meaning": "some; a few; a little",
+        "pinyin": "yìxiē",
+        "audioSrc": "audio/一些.mp3"
+    },
+    {
+        "id": "143",
+        "imageSrc": "images/那些.png",
+        "character": "那些",
+        "meaning": "Those",
+        "pinyin": "nàxiē",
+        "audioSrc": "audio/那些.mp3"
+    },
+    {
+        "id": "144",
+        "imageSrc": "images/饺子.png",
+        "character": "饺子",
+        "meaning": "Dumpling",
+        "pinyin": "jiǎozi",
+        "audioSrc": "audio/饺子.mp3"
+    },
+    {
+        "id": "145",
+        "imageSrc": "images/包子.png",
+        "character": "包子",
+        "meaning": "Steamed bun",
+        "pinyin": "bāozi",
+        "audioSrc": "audio/包子.mp3"
+    },
+    {
+        "id": "146",
+        "imageSrc": "images/面条.png",
+        "character": "面条",
+        "meaning": "Noodle",
+        "pinyin": "miàntiáo",
+        "audioSrc": "audio/面条.mp3"
     }
 ]
