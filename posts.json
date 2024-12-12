@@ -263,7 +263,7 @@
     {
         "id": 30, 
         "user": "B", 
-        "title": 那是英文杂志。", 
+        "title": "那是英文杂志。", 
         "segments": ["那", "是", "英文", "杂志", "。"],
         "description": "nà shì yīngwén zázhì<br>That is an English magazine.", 
         "avatar": "avatar/nate.png", 
