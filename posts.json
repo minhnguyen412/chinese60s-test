@@ -178,5 +178,113 @@
         "description": "hànzi hěn nán fāyīn bú tài nán<br>Chinese characters are very difficult, but pronunciation is not too difficult.", 
         "avatar": "avatar/maike.png", 
         "audioSrc": "sentences/汉字很难发音不太难.mp3"
+    },
+    {
+        "id": 21, 
+        "user": "A", 
+        "title": "这是什么？", 
+        "segments": ["这", "是", "什么", "？"],
+        "description": "zhè shì shénme<br>What is this?", 
+        "avatar": "avatar/lana.png", 
+        "audioSrc": "sentences/这是什么.mp3"
+    },
+    {
+        "id": 22, 
+        "user": "B", 
+        "title": "这是书。", 
+        "segments": ["这", "是", "书", "。"],
+        "description": "zhè shì shū <br>This is a book.", 
+        "avatar": "avatar/nate.png", 
+        "audioSrc": "sentences/这是书.mp3"
+    },
+    {
+        "id": 23, 
+        "user": "A", 
+        "title": "这是什么书？", 
+        "segments": ["这", "是", "什么", "书", "？"],
+        "description": "zhè shì shénme shū<br>What kind of book is this?", 
+        "avatar": "avatar/lana.png", 
+        "audioSrc": "sentences/这是什么书.mp3"
+    },
+    {
+        "id": 24, 
+        "user": "B", 
+        "title": "这是中文书。", 
+        "segments": ["这", "是", "中文", "书", "。"],
+        "description": "zhè shì zhōngwén shū<br>This is a Chinese book.", 
+        "avatar": "avatar/nate.png", 
+        "audioSrc": "sentences/这是中文书.mp3"
+    },
+    {
+        "id": 25, 
+        "user": "A", 
+        "title": "这是谁的书？", 
+        "segments": ["这", "是", "谁", "的", "书", "？"],
+        "description": "zhè shì shéi de shū<br>Whose book is this?", 
+        "avatar": "avatar/lana.png", 
+        "audioSrc": "sentences/这是谁的书.mp3"
+    },
+    {
+        "id": 26, 
+        "user": "B", 
+        "title": "这是老师的书。", 
+        "segments": ["这", "是", "老师", "的", "书", "。"],
+        "description": "zhè shì lǎoshī de shū<br>This is the teacher's book.", 
+        "avatar": "avatar/nate.png", 
+        "audioSrc": "sentences/这是老师的书.mp3"
+    },
+    {
+        "id": 27, 
+        "user": "A", 
+        "title": "那是什么？", 
+        "segments": ["那", "是", "什么", "？"],
+        "description": "nà shì shénme<br>What is that?", 
+        "avatar": "avatar/lana.png", 
+        "audioSrc": "sentences/那是什么.mp3"
+    },
+    {
+        "id": 28, 
+        "user": "B", 
+        "title": "那是杂志。", 
+        "segments": ["那", "是", "杂志", "。"],
+        "description": "nà shì zázhì<br>That is a magazine.", 
+        "avatar": "avatar/nate.png", 
+        "audioSrc": "sentences/那是杂志.mp3"
+    },
+    {
+        "id": 29, 
+        "user": "A", 
+        "title": "那是什么杂志？", 
+        "segments": ["那", "是", "什么", "杂志", "？"],
+        "description": "nà shì shénme zázhì<br>What kind of magazine is that?", 
+        "avatar": "avatar/lana.png", 
+        "audioSrc": "sentences/那是什么杂志.mp3"
+    },
+    {
+        "id": 30, 
+        "user": "B", 
+        "title": 那是英文杂志。", 
+        "segments": ["那", "是", "英文", "杂志", "。"],
+        "description": "nà shì yīngwén zázhì<br>That is an English magazine.", 
+        "avatar": "avatar/nate.png", 
+        "audioSrc": "sentences/那是英文杂志.mp3"
+    },
+    {
+        "id": 31, 
+        "user": "A", 
+        "title": "那是谁的杂志？", 
+        "segments": ["那", "是", "谁", "的", "杂志", "？"],
+        "description": "nà shì shéi de zázhì<br>Whose magazine is that?", 
+        "avatar": "avatar/lana.png", 
+        "audioSrc": "sentences/那是谁的杂志.mp3"
+    },
+    {
+        "id": 32, 
+        "user": "B", 
+        "title": "那是我朋友的杂志。", 
+        "segments": ["那", "是", "我", "朋友", "的", "杂志", "。"],
+        "description": "nà shì wǒ péngyou de zázhì<br>That's my friend's magazine.", 
+        "avatar": "avatar/nate.png", 
+        "audioSrc": "sentences/那是我朋友的杂志.mp3"
     }
 ]
