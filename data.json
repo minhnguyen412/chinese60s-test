@@ -232,6 +232,171 @@
                 { "answer": "images/汉字.png" }
             ],
             "words": ["images/汉字.png", "images/杂志.png", "images/国.png"]
+        },
+        {
+            "id": 24,
+            "audio": "sentences/这是什么.mp3",
+            "sentence": "What is this? : ___ ___ ___?",
+            "blanks": [
+                { "answer": "这" },
+                { "answer": "是" },
+                { "answer": "什么" }
+            ],
+            "words": ["什么", "这", "是"]
+        },
+        {
+            "id": 25,
+            "audio": "sentences/这是书.mp3",
+            "sentence": "This is a book. : ___ ___ ___.",
+            "blanks": [
+                { "answer": "这" },
+                { "answer": "是" },
+                { "answer": "书" }
+            ],
+            "words": ["书", "是", "这"]
+        },
+        {
+            "id": 26,
+            "audio": "audio/书.mp3",
+            "sentence": ["images/书.png", ": ___"],
+            "blanks": [
+                { "answer": "书" }
+            ],
+            "words": ["电视", "书", "椅子"]
+        },
+        {
+            "id": 27,
+            "audio": "sentences/这是什么书.mp3",
+            "sentence": "___ ___ ___ ___.",
+            "blanks": [
+                { "answer": "这" },
+                { "answer": "是" },
+                { "answer": "什么" },
+                { "answer": "书" }
+                
+            ],
+            "words": ["什么", "书", "是", "这"]
+        },
+        {
+            "id": 28,
+            "audio": "audio/中文.mp3",
+            "sentence": "中文 : ___",
+            "blanks": [
+                { "answer": "images/中文.png" }
+            ],
+            "words": ["images/韩文.png", "images/日文.png", "images/中文.png"]
+        },
+        {
+            "id": 29,
+            "audio": "sentences/这是谁的书.mp3",
+            "sentence": "Whose book is this? : ___ ___ ___ ___ ___?",
+            "blanks": [
+                { "answer": "这" },
+                { "answer": "是" },
+                { "answer": "谁" },
+                { "answer": "的" },
+                { "answer": "书" }
+            ],
+            "words": ["谁", "这", "是", "书", "的"]
+        },
+        {
+            "id": 30,
+            "audio": "audio/谁.mp3",
+            "sentence": ["images/谁.gif", ": ___"],
+            "blanks": [
+                { "answer": "谁" }
+            ],
+            "words": ["那", "在", "谁"]
+        },
+        {
+            "id": 31,
+            "audio": "sentences/这是老师的书.mp3",
+            "sentence": "___ ___ ___ ___ ___.",
+            "blanks": [
+                { "answer": "这" },
+                { "answer": "是" },
+                { "answer": "老师" },
+                { "answer": "的" },
+                { "answer": "书" },
+            ],
+            "words": ["是", "老师", "书", "这", "的"]
+        },
+        {
+            "id": 32,
+            "audio": "sentences/那是什么.mp3",
+            "sentence": "What is that? : ___ ___ ___?",
+            "blanks": [
+                { "answer": "那" },
+                { "answer": "是" },
+                { "answer": "什么" }
+            ],
+            "words": ["什么", "那", "是"]
+        },
+        {
+            "id": 33,
+            "audio": "audio/杂志.mp3",
+            "sentence": ["images/杂志.png", ": ___"],
+            "blanks": [
+                { "answer": "杂志" }
+            ],
+            "words": ["杂志", "学校", "身体"]
+        },
+        {
+            "id": 34,
+            "audio": "sentences/那是什么杂志.mp3",
+            "sentence": "___ ___ ___ ___.",
+            "blanks": [
+                { "answer": "那" },
+                { "answer": "是" },
+                { "answer": "什么" },
+                { "answer": "杂志" }
+            ],
+            "words": ["是", "什么", "杂志", "那"]
+        },
+        {
+            "id": 35,
+            "audio": "audio/英文.mp3",
+            "sentence": "英文 : ___",
+            "blanks": [
+                { "answer": "images/英文.png" }
+            ],
+            "words": ["images/英文.png", "images/阿拉伯文.png", "images/德文.png"]
+        },
+        {
+            "id": 36,
+            "audio": "sentences/那是谁的杂志.mp3",
+            "sentence": "___ ___ ___ ___ ___？",
+            "blanks": [
+                { "answer": "那" },
+                { "answer": "是" },
+                { "answer": "谁" },
+                { "answer": "的" },
+                { "answer": "杂志" }
+            ],
+            "words": ["是", "谁", "杂志", "那", "的"]
+        },
+        {
+            "id": 37,
+            "audio": "sentences/那是我朋友的杂志.mp3",
+            "sentence": "That's my friend's magazine. : ___ ___ ___ ___ ___ ___.",
+            "blanks": [
+                { "answer": "那" },
+                { "answer": "是" },
+                { "answer": "我" },
+                { "answer": "朋友" },
+                { "answer": "的" },
+                { "answer": "杂志" }
+            ],
+            "words": ["那", "我", "的", "朋友", "是", "杂志"]
+        },
+        {
+            "id": 38,
+            "audio": "audio/朋友.mp3",
+            "sentence": ["images/朋友.png", ": ___"],
+            "blanks": [
+                { "answer": "朋友" }
+            ],
+            "words": ["老师", "父母", "朋友"]
         }
     ]
 }
