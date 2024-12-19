@@ -236,7 +236,7 @@
         {
             "id": 24,
             "audio": "sentences/这是什么.mp3",
-            "sentence": "What is this? : ___ ___ ___?",
+            "sentence": "What is this? <br> ___ ___ ___?",
             "blanks": [
                 { "answer": "这" },
                 { "answer": "是" },
@@ -247,7 +247,7 @@
         {
             "id": 25,
             "audio": "sentences/这是书.mp3",
-            "sentence": "This is a book. : ___ ___ ___.",
+            "sentence": "This is a book. <br> ___ ___ ___.",
             "blanks": [
                 { "answer": "这" },
                 { "answer": "是" },
@@ -267,7 +267,7 @@
         {
             "id": 27,
             "audio": "sentences/这是什么书.mp3",
-            "sentence": "___ ___ ___ ___.",
+            "sentence": "___ ___ ___ ___?",
             "blanks": [
                 { "answer": "这" },
                 { "answer": "是" },
@@ -289,7 +289,7 @@
         {
             "id": 29,
             "audio": "sentences/这是谁的书.mp3",
-            "sentence": "Whose book is this? : ___ ___ ___ ___ ___?",
+            "sentence": "Whose book is this? <br> ___ ___ ___ ___ ___?",
             "blanks": [
                 { "answer": "这" },
                 { "answer": "是" },
@@ -324,7 +324,7 @@
         {
             "id": 32,
             "audio": "sentences/那是什么.mp3",
-            "sentence": "What is that? : ___ ___ ___?",
+            "sentence": "What is that? <br> ___ ___ ___?",
             "blanks": [
                 { "answer": "那" },
                 { "answer": "是" },
@@ -344,7 +344,7 @@
         {
             "id": 34,
             "audio": "sentences/那是什么杂志.mp3",
-            "sentence": "___ ___ ___ ___.",
+            "sentence": "___ ___ ___ ___?",
             "blanks": [
                 { "answer": "那" },
                 { "answer": "是" },
@@ -378,7 +378,7 @@
         {
             "id": 37,
             "audio": "sentences/那是我朋友的杂志.mp3",
-            "sentence": "That's my friend's magazine. : ___ ___ ___ ___ ___ ___.",
+            "sentence": "That's my friend's magazine. <br> ___ ___ ___ ___ ___ ___.",
             "blanks": [
                 { "answer": "那" },
                 { "answer": "是" },
